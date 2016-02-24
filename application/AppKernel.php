@@ -39,7 +39,7 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new JMS\SerializerBundle\JMSSerializerBundle($this),
             new FOS\RestBundle\FOSRestBundle(),
-            new Newscoop\GimmeBundle\NewscoopGimmeBundle(),
+           // new Newscoop\GimmeBundle\NewscoopGimmeBundle(),
             new Knp\Bundle\PaginatorBundle\KnpPaginatorBundle(),
             new Knp\Bundle\MenuBundle\KnpMenuBundle(),
             new EWZ\Bundle\RecaptchaBundle\EWZRecaptchaBundle(),
