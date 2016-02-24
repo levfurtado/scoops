@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit colors="true" bootstrap="autoload.php">
+
+    <testsuites>
+        <testsuite name="RMT Unit test suite">
+            <directory suffix="Test.php">./test/Liip/RMT/Tests/Unit</directory>
+        </testsuite>
+        <testsuite name="RMT Functional test suite">
+            <directory suffix="Test.php">./test/Liip/RMT/Tests/Functional</directory>
+        </testsuite>
+    </testsuites>
+
+    <logging>
+        <log type="junit" target="build/logs/junit.xml" logIncompleteSkipped="false"/>
+    </logging>
+</phpunit>

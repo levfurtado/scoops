@@ -1,0 +1,37 @@
+{
+    "name": "liip/rmt",
+    "version": "1.1.4",
+    "description": "Release Managment Tool: a handy tool to help releasing new version of your software",
+    "keywords": ["release", "version", "semantic versioning", "vcs tag", "pre-release", "post-release"],
+    "homepage": "http://github.com/liip/RMT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laurent Prodon",
+            "email": "laurent.prodon@liip.ch",
+            "role": "Developer"
+        },
+        {
+            "name": "David Jeanmonod",
+            "email": "david.jeanmonod@liip.ch",
+            "role": "Developer"
+        }
+
+    ],
+    "support": {
+        "issues": "http://github.com/liip/RMT/issues"
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/console": "~2.0",
+        "symfony/yaml": "~2.0",
+        "symfony/process": "~2.0",
+        "vierbergenlars/php-semver": "~3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Liip": "src"
+        }
+    },
+    "bin": ["RMT"]
+}

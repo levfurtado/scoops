@@ -1,0 +1,283 @@
+s:16261:"<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Sourcefabric News</title>
+<link>http://www.sourcefabric.org</link>
+<description>Sourcefabric is a nonprofit organisation that enables quality journalism worldwide through open sour</description>
+<language>en</language>
+<copyright>Copyright 2016, Sourcefabric: Tools for quality, independent journalism</copyright>
+<lastBuildDate>Tue, 23 Feb 2016 21:17:04 +0100</lastBuildDate>
+<ttl>60</ttl>
+<generator>Newscoop</generator>
+<image>
+<url>https://www.sourcefabric.org/themes/publication_2/theme_1/assets/img/logo-sourcefabric.png</url>
+<title>Sourcefabric News</title>
+<link>http://www.sourcefabric.org</link>
+<width>144</width>
+<height>37</height>
+</image>
+
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/sourcefabric" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="sourcefabric" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+<title>Beyond the code - life at Sourcefabric</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3431</link>
+<description>
+As a developer, work is so much more than just code. Working with colleagues that share common goals is important and creates relationships that are one of a kind. Sourcefabric is a place where we create great open source software and actually very much enjoy doing so.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Aleksandar Jovanović</atom:name></atom:author>
+<pubDate>Mon, 22 Feb 2016 10:40:49 +0000</pubDate>
+<guid isPermaLink="false">3431-1</guid>
+</item>
+
+<item>
+<title>Rocking it in Moldova</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3428</link>
+<description>
+"Why open source is a newsroom trend worth watching" - This was Sourcefabric co-founder Douglas Arellanes's speech topic during his recent presentation in Moldova at the Rockit Summit. The summit was an event that brought together a large number of startups, digital marketers and media professionals. 
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Douglas Arellanes</atom:name></atom:author>
+<pubDate>Thu, 18 Feb 2016 08:47:00 +0000</pubDate>
+<guid isPermaLink="false">3428-1</guid>
+</item>
+
+<item>
+<title>Broadcast and Podcast in one place</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3427</link>
+<description>
+What do we want? Podcasts! When do we want them? Now! Welcome to podcasting with Airtime Pro. We released this new feature a few weeks ago to give you access to this quickly growing medium and help you take your station to the next level. 
+ 
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Emma Van Sant</atom:name></atom:author>
+<pubDate>Tue, 16 Feb 2016 08:51:36 +0000</pubDate>
+<guid isPermaLink="false">3427-1</guid>
+</item>
+
+<item>
+<title>Turning Europe inside out</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3426</link>
+<description>
+The beauty of open source technology is that, no matter what it was initially designed to do, it can be reinterpreted, reshaped and turned inside out to better fit emerging needs. That’s what happened when we put Storyteller, Newscoop, Live Blog and Airtime in the hands of our friends at CORNERS, a platform for artists and audiences, designed and driven by cultural organisations at the edges of Europe.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Letizia Gambini</atom:name></atom:author>
+<pubDate>Tue, 09 Feb 2016 08:20:07 +0000</pubDate>
+<guid isPermaLink="false">3426-1</guid>
+</item>
+
+<item>
+<title>How to make your ‘Year in Review’ with Storyteller</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3425</link>
+<description>
+There is a time of the year when individuals and organisations are reflecting on how the past year went, and where to go next. Usually, this is the time when every major media outlet writes “year’s best” posts or puts together their Year in Review. In 2015, our partner Nepali Times used Storyteller to sum up Nepal’s eventful year. This is how.  
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Letizia Gambini</atom:name></atom:author>
+<pubDate>Tue, 02 Feb 2016 08:58:04 +0000</pubDate>
+<guid isPermaLink="false">3425-1</guid>
+</item>
+
+<item>
+<title>Make good books faster with Booktype</title>
+<link>http://booktype.pro/en/booktype/news/3413</link>
+<description>
+Two new developments have made Booktype deployment and PDF rendering even faster. The first enhancement is that .deb packages of Booktype 2.0 are now available from our apt server for Debian 8.2 'Jessie' and Ubuntu 14.04 LTS 'Trusty'. The second enhancement came with the release of PHP 7.0.0.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://booktype.pro/en/booktype/news/">News</category>
+<atom:author><atom:name>Daniel James</atom:name></atom:author>
+<pubDate>Mon, 25 Jan 2016 15:12:57 +0000</pubDate>
+<guid isPermaLink="false">3413-1</guid>
+</item>
+
+<item>
+<title>Bright minds think alike. Call it “culture fit”</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3424</link>
+<description>
+Welcome to the second post in a series of writings that take a peek into the behind the scenes world of Sourcefabric. This edition features thoughts from our Berlin-based operations manager, Julia. She explores why she chose to join the team and how Sourcefabric is every day “an inspiring place to be”.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Julia Vernersson</atom:name></atom:author>
+<pubDate>Thu, 21 Jan 2016 12:51:11 +0000</pubDate>
+<guid isPermaLink="false">3424-1</guid>
+</item>
+
+<item>
+<title>Meet Verified Pixel: A ‘visual spellcheck’ for verifying images in news</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3423</link>
+<description>
+Every major news story now brings with it a minefield of fake pictures for newsrooms to sort though, a minefield that grows ever bigger each ear. Verified Pixel is a Knight Foundation-funded prototype that aims to speed up verification by automating and simplifying that process. This article was written by Alastair Reid, Managing Editor of First Draft News.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Douglas Arellanes</atom:name></atom:author>
+<pubDate>Tue, 19 Jan 2016 09:28:06 +0000</pubDate>
+<guid isPermaLink="false">3423-1</guid>
+</item>
+
+<item>
+<title>8 conferences you should not miss in 2016</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3420</link>
+<description>
+It’s January again, which means that we are gearing up for another busy year of events and conferences. Where will trends in journalism, open source &amp;amp; publishing be discussed in 2016? At Sourcefabric, we’re excited for another season of opportunities to network with industry leaders, show off our software and learn new things.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Letizia Gambini</atom:name></atom:author>
+<pubDate>Fri, 15 Jan 2016 09:14:08 +0000</pubDate>
+<guid isPermaLink="false">3420-1</guid>
+</item>
+
+<item>
+<title>Why we love radio</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3415</link>
+<description>
+As we may be saying a bittersweet farewell to an inspiring online radio network powerhouse, Live365, we want to take a minute to welcome potential new users to our radio broadcasting service, Airtime, and say a few words about why we love radio so much. 
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Micz Flor</atom:name></atom:author>
+<pubDate>Mon, 11 Jan 2016 11:34:31 +0000</pubDate>
+<guid isPermaLink="false">3415-1</guid>
+</item>
+
+<item>
+<title>An insider’s look into Sourcefabric</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3412</link>
+<description>
+It's the New Year. To kick-off 2016, we asked our Head of Support, Josh, to share with us what makes Sourcefabric a special place to work. This is the first in a series of posts peeking into the world of Sourcefabric. So, here is Josh, and his insider's look into Sourcefabric! 
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Josh McLain</atom:name></atom:author>
+<pubDate>Wed, 06 Jan 2016 11:22:49 +0000</pubDate>
+<guid isPermaLink="false">3412-1</guid>
+</item>
+
+<item>
+<title>The best of 2015 in the life of Sourcefabric</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3411</link>
+<description>
+Before we embark on 2016, we would like to thank you for playing a part in our history and take a moment to reflect on 2015. Brought to you in a new longform format using our Storyteller theme for Newscoop, here's a collection of 10 of the greatest moments from this past year. We hope you enjoy!
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Micz Flor</atom:name></atom:author>
+<pubDate>Fri, 18 Dec 2015 08:33:47 +0000</pubDate>
+<guid isPermaLink="false">3411-1</guid>
+</item>
+
+<item>
+<title>Sourcefabric provides tools for SHIFT. SHAPE. MOBILIZE. 2015</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3410</link>
+<description>
+At Sourcefabric, we always look forward to sharing our tools with bright people who have brilliant ideas. So, when the bpb (in English: Federal Agency for Civic Education) approached us to partner with them and n-ost to organise a workshop for bloggers we were more than up for it. That's how we got 21 bloggers together in Berlin for the tools &amp;amp; skills workshop SHIFT. SHAPE. MOBILIZE. 
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Julia Vernersson, Letizia Gambini</atom:name></atom:author>
+<pubDate>Thu, 17 Dec 2015 10:59:28 +0000</pubDate>
+<guid isPermaLink="false">3410-1</guid>
+</item>
+
+<item>
+<title>Not your grandma's newsroom management system</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3405</link>
+<description>
+One thing we can say for certain is that we are uncertain about the future of the news industry. Trends come and go and there is no silver bullet for keeping an online newsroom competitive. So unless you’ve got a crystal ball tucked away somewhere, I'm placing my money on Superdesk, a future-proof newsroom management system.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Emma Van Sant</atom:name></atom:author>
+<pubDate>Tue, 15 Dec 2015 09:27:39 +0000</pubDate>
+<guid isPermaLink="false">3405-1</guid>
+</item>
+
+<item>
+<title>Activist Radio: a watchtower for human rights in Armenia</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3403</link>
+<description>
+Ashkhuzhak (activist) radio was launched in September 2015 as one of the radio stations of the microwav.fm project. It runs on Airtime and Newscoop and is an independent radio platform managed and hosted by three civil right pioneers in Armenia. Their goal is to work for human rights and drive progress for civil rights and diversity in Armenian society. 
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Eva Dangendorf</atom:name></atom:author>
+<pubDate>Thu, 10 Dec 2015 14:17:22 +0000</pubDate>
+<guid isPermaLink="false">3403-1</guid>
+</item>
+
+<item>
+<title>Live Blog 3.0 enables delivering real news in real time</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3358</link>
+<description>
+Today we announce the release of Live Blog 3.0 stable version, a completely revamped version of our open source live blogging software. Live Blog answers to the needs of media organisations and journalists covering breaking news or any other fast-paced event, such as the current UN Climate talks in Paris, or the celebrations of this year’s Polish National Day.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Letizia Gambini</atom:name></atom:author>
+<pubDate>Tue, 08 Dec 2015 11:46:21 +0000</pubDate>
+<guid isPermaLink="false">3358-1</guid>
+</item>
+
+<item>
+<title>Live Blog 3.0 stable and the secret to improving any software</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3359</link>
+<description>
+Over the last couple of weeks, we’ve been working hard to make sure to release the first stable version of Live Blog 3.0. Today we announce the release of Live Blog 3.0, a completely revamped and stable version of our open source live blogging software, which brings you a redesigned UI, responsive embed codes, user roles for better newsroom collaboration, drafts and contributions for creating and editing content before it gets published and much more.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Karel Petrák</atom:name></atom:author>
+<pubDate>Tue, 08 Dec 2015 11:39:27 +0000</pubDate>
+<guid isPermaLink="false">3359-1</guid>
+</item>
+
+<item>
+<title>Testing, testing, 1,2,3: Polish National Day and Live Blog 3.0</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3360</link>
+<description>
+On November 11, Polish News Agency (PAP) tested Live Blog 3.0 while reporting on the Polish National Day celebration across the country.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Letizia Gambini</atom:name></atom:author>
+<pubDate>Wed, 02 Dec 2015 15:05:12 +0000</pubDate>
+<guid isPermaLink="false">3360-1</guid>
+</item>
+
+<item>
+<title>Mikrotext is using Booktype to make beautiful e-books</title>
+<link>http://booktype.pro/en/booktype/news/3357</link>
+<description>
+Berlin digital publishing house mikrotext is releasing its first e-book created with Booktype tomorrow.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://booktype.pro/en/booktype/news/">News</category>
+<atom:author><atom:name>Magdalena Klein</atom:name></atom:author>
+<pubDate>Tue, 01 Dec 2015 13:18:10 +0000</pubDate>
+<guid isPermaLink="false">3357-1</guid>
+</item>
+
+<item>
+<title>Glocal transparent reporting on climate change with Live Blog</title>
+<link>http://blog.sourcefabric.org/en/news/blog/3354</link>
+<description>
+The 21st United Nations Climate Change Conference is taking place between 30 November to 11 December in Paris and the Climate News Mosaic’s team will cover the whole duration of the UN-led climate change negotiations.
+&lt;br clear="all"&gt;
+</description>
+<category domain="https://blog.sourcefabric.org/en/news/blog/">Blog</category>
+<atom:author><atom:name>Magdalena Klein</atom:name></atom:author>
+<pubDate>Thu, 26 Nov 2015 10:09:50 +0000</pubDate>
+<guid isPermaLink="false">3354-1</guid>
+</item>
+
+</channel>
+</rss>
+";
